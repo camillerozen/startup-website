@@ -1,0 +1,35 @@
+@media (max-width: 960px) {
+  .containers {
+    width: 700px;
+  }
+}
+@media (max-width: 720px) {
+  .containers {
+    width: 500px;
+  }
+}
+@media (max-width: 540px) {  
+  .containers {
+    width: 300px;
+  }
+}
+.containers {
+	width: 700px;
+	margin: 0 auto;
+	text-align: justify;
+	margin-top: 40px;
+}
+
+.container {
+	text-align: center;
+	font-weight: 400;
+}
+.container p {
+	font-size: 24px;
+	font-weight: 300;
+}
+.container h2 {
+	color: #3C4C56;
+	font-weight: 600;
+	font-size: 34px;
+}
